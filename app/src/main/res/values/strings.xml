@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContextFreeDialog</string>
+    <string name="progress_dialog_message">سلام دیالوگ بدون کانتکس</string>
+</resources>
